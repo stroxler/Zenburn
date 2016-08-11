@@ -233,7 +233,7 @@ hi Keyword         guifg=#f0dfaf gui=bold                     ctermfg=223 cterm=
 hi Macro           guifg=#ffcfaf gui=bold                     ctermfg=223 cterm=bold
 hi ModeMsg         guifg=#ffcfaf gui=none                     ctermfg=223 cterm=none
 hi MoreMsg         guifg=#ffffff gui=bold                     ctermfg=231 cterm=bold
-hi Number          guifg=#8cd0d3                              ctermfg=116
+hi Number          guifg=#cc9393                              ctermfg=174
 hi Operator        guifg=#f0efd0                              ctermfg=230
 hi PmenuSbar       guibg=#2e3330 guifg=#000000                ctermfg=16  ctermbg=236
 hi PmenuThumb      guibg=#a0afa0 guifg=#040404                ctermfg=232 ctermbg=151
@@ -251,7 +251,7 @@ hi Statement       guifg=#e3ceab gui=none                     ctermfg=187 cterm=
 hi StatusLine      guifg=#313633 guibg=#ccdc90                ctermfg=236 ctermbg=186
 hi StatusLineNC    guifg=#2e3330 guibg=#88b090                ctermfg=235 ctermbg=108
 hi StorageClass    guifg=#c3bf9f gui=bold                     ctermfg=249 cterm=bold
-hi String          guifg=#cc9393                              ctermfg=174
+hi String          guifg=#8cd0d3                              ctermfg=116
 hi Structure       guifg=#efefaf gui=bold                     ctermfg=229 cterm=bold
 hi Tag             guifg=#e89393 gui=bold                     ctermfg=181 cterm=bold
 hi Title           guifg=#efefef gui=bold                     ctermfg=255 ctermbg=NONE cterm=bold
